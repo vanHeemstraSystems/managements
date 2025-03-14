@@ -1,7 +1,7 @@
 managements
 # Managements
 
-> Slugline
+> An overview of all management repositories hosted.
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
@@ -17,7 +17,9 @@ managements
 
 **Executive Summary**
 
-An overview of all management repositories hosted.
+The English verb manage has its roots in the fifteenth-century French verb mesnager, which often referred in equestrian language "to hold in hand the reins of a horse".[4] Also the Italian term maneggiare (to handle, especially tools or a horse) is possible. In Spanish, manejar can also mean to rule the horses.[5] These three terms derive from the two Latin words manus (hand) and agere (to act).
+
+The French word for housekeeping, ménagerie, derived from ménager ("to keep house"; compare ménage for "household"), also encompasses taking care of domestic animals. Ménagerie is the French translation of Xenophon's famous book Oeconomicus[6] (Ancient Greek: Οἰκονομικός) on household matters and husbandry. The French word mesnagement (or ménagement) influenced the semantic development of the English word management in the 17th and 18th centuries.[7]
 
 Generated with [Rytr](https://app.rytr.me)
 
