@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+managements
+# Managements
 
 > Slugline
 
@@ -17,7 +17,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+An overview of all management repositories hosted.
 
 Generated with [Rytr](https://app.rytr.me)
 
