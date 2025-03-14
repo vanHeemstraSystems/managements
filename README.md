@@ -21,6 +21,11 @@ An overview of all management repositories hosted.
 
 Generated with [Rytr](https://app.rytr.me)
 
+| Management | Repository |
+| --- | --- |
+| ... | ... |
+| Prioritization | https://github.com/vanHeemstraSystems/prioritization-management/ |
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
