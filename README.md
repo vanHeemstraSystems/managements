@@ -24,7 +24,16 @@ Generated with [Rytr](https://app.rytr.me)
 | Management (in alphabetical ascending order)| Repository |
 | --- | --- |
 | ... | ... |
+| Backlog Refinement | https://github.com/vanHeemstraSystems/backlog-refinement/ |
+| Daily Standup | https://github.com/vanHeemstraSystems/daily-standup/ |
+| Features | https://github.com/vanHeemstraSystems/features-management/ |
 | Prioritization | https://github.com/vanHeemstraSystems/prioritization-management/ |
+| Retrospective | https://github.com/vanHeemstraSystems/retrospective/ |
+| Sprint | https://github.com/vanHeemstraSystems/sprint-management/ |
+| Sprint Planning | https://github.com/vanHeemstraSystems/sprint-planning-management/ |
+| Sprint Review | https://github.com/vanHeemstraSystems/sprint-review-management/ |
+
+MORE...
 
 ## 100 - Introduction
 
